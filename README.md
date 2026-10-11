@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0461-hamming-distance) |
+## Array
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
