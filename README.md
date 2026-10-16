@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
+| [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
