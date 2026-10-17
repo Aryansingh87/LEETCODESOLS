@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [0853-car-fleet](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0853-car-fleet) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
