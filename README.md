@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Queue
 |  |
 | ------- |
