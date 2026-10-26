@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1480-running-sum-of-1d-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
