@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
 | [0622-design-circular-queue](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
