@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0984-string-without-aaa-or-bbb) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -121,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
