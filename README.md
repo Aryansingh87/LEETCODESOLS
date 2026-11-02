@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
+| [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
