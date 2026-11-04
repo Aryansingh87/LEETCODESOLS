@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0622-design-circular-queue](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1463-cherry-pickup-ii) |
 ## Tree
 |  |
