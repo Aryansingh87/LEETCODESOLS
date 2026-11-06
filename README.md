@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0622-design-circular-queue](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0735-asteroid-collision) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
@@ -161,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
