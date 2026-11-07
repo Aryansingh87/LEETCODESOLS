@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1463-cherry-pickup-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1463-cherry-pickup-ii) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
