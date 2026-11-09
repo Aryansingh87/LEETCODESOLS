@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1143-longest-common-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
