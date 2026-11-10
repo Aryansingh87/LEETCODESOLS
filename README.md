@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3693-climbing-stairs-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1463-cherry-pickup-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1463-cherry-pickup-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3693-climbing-stairs-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3693-climbing-stairs-ii) |
 ## Queue
 |  |
 | ------- |
