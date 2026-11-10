@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0516-longest-palindromic-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0403-frog-jump) |
