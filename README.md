@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
