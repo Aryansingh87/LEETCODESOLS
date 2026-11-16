@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3693-climbing-stairs-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3693-climbing-stairs-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -136,17 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0853-car-fleet) |
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0224-basic-calculator) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
