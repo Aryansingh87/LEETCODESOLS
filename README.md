@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2716-minimize-string-length](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [2716-minimize-string-length](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2716-minimize-string-length) |
 <!---LeetCode Topics End-->
