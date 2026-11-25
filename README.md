@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1529-minimum-suffix-flips](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1463-cherry-pickup-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1480-running-sum-of-1d-array) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1402-reducing-dishes) |
 | [1463-cherry-pickup-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1463-cherry-pickup-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3693-climbing-stairs-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3693-climbing-stairs-ii) |
 ## Queue
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2498-frog-jump-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/2498-frog-jump-ii) |
 ## Longest Increasing Subsequence
 |  |
