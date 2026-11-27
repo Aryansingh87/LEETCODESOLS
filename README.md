@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0622-design-circular-queue](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0622-design-circular-queue) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0907-sum-of-subarray-minimums) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Aryansingh87/LEETCODESOLS/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
